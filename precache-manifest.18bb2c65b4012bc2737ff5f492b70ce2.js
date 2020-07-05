@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f04dc94f06c7c03a1b1666168fc5c53f",
+    "revision": "8a05ddf4bcc186682f634a0087d9acb0",
     "url": "/friend-reviews-vk-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friend-reviews-vk-app/static/css/2.8c9b10a9.chunk.css"
   },
   {
-    "revision": "b8c4b50273174152022d",
-    "url": "/friend-reviews-vk-app/static/css/main.40f6a47e.chunk.css"
+    "revision": "2ce1a4168e97fc1b89bf",
+    "url": "/friend-reviews-vk-app/static/css/main.26504555.chunk.css"
   },
   {
     "revision": "b8e48edc1126882a559c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friend-reviews-vk-app/static/js/2.cece5084.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8c4b50273174152022d",
+    "revision": "2ce1a4168e97fc1b89bf",
     "url": "/friend-reviews-vk-app/static/js/main.df2e410f.chunk.js"
   },
   {

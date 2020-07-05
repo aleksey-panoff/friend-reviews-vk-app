@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACI,YAAa,CACb,kBACJ,CACA,oCACI,iBACJ","file":"main.40f6a47e.chunk.css","sourcesContent":[".attachments {\n    display: flex;\n    padding: 10px 0 4px;\n}\n.attachments > img:not(:last-of-type) {\n    padding-right: 5px;\n}\n"]}
