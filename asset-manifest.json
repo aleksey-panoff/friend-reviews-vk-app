@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/friend-reviews-vk-app/static/js/main.ebe1d58d.chunk.js",
-    "main.js.map": "/friend-reviews-vk-app/static/js/main.ebe1d58d.chunk.js.map",
+    "main.js": "/friend-reviews-vk-app/static/js/main.f521d7c9.chunk.js",
+    "main.js.map": "/friend-reviews-vk-app/static/js/main.f521d7c9.chunk.js.map",
     "runtime-main.js": "/friend-reviews-vk-app/static/js/runtime-main.b499d289.js",
     "runtime-main.js.map": "/friend-reviews-vk-app/static/js/runtime-main.b499d289.js.map",
     "static/css/2.8c9b10a9.chunk.css": "/friend-reviews-vk-app/static/css/2.8c9b10a9.chunk.css",
     "static/js/2.e5c2825b.chunk.js": "/friend-reviews-vk-app/static/js/2.e5c2825b.chunk.js",
     "static/js/2.e5c2825b.chunk.js.map": "/friend-reviews-vk-app/static/js/2.e5c2825b.chunk.js.map",
     "index.html": "/friend-reviews-vk-app/index.html",
-    "precache-manifest.5ce5c79591ca3728020051219425af33.js": "/friend-reviews-vk-app/precache-manifest.5ce5c79591ca3728020051219425af33.js",
+    "precache-manifest.09cc76ad084367ebeb59643cc4798ca6.js": "/friend-reviews-vk-app/precache-manifest.09cc76ad084367ebeb59643cc4798ca6.js",
     "service-worker.js": "/friend-reviews-vk-app/service-worker.js",
     "static/css/2.8c9b10a9.chunk.css.map": "/friend-reviews-vk-app/static/css/2.8c9b10a9.chunk.css.map",
     "static/js/2.e5c2825b.chunk.js.LICENSE.txt": "/friend-reviews-vk-app/static/js/2.e5c2825b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b499d289.js",
     "static/css/2.8c9b10a9.chunk.css",
     "static/js/2.e5c2825b.chunk.js",
-    "static/js/main.ebe1d58d.chunk.js"
+    "static/js/main.f521d7c9.chunk.js"
   ]
 }
