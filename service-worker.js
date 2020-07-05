@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/friend-reviews-vk-app/precache-manifest.2c3a7fb1050eb533cf5f41ad7d43ccfb.js"
+  "/friend-reviews-vk-app/precache-manifest.0e6be78a010bf3bd6cf5f149adb068d2.js"
 );
 
 self.addEventListener('message', (event) => {
